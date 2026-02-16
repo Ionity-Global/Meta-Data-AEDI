@@ -48,6 +48,11 @@ For detailed metadata, please refer to:
 2. [ionity.yaml](ionity.yaml) for structured machine-readable data
 3. [manifest.json](manifest.json) for web application integration
 
+### Notes
+
+- **Asset Files**: The `manifest.json` references icon files in `assets/Images/` directory. These asset files are managed separately in the [AntwerpDesignsIonity/Metadata](https://github.com/AntwerpDesignsIonity/Metadata) repository.
+- **External References**: The `ionity.yaml` file contains references to the original metadata repository and external resources, which is intentional for cross-repository coordination.
+
 ## License
 
 © 2018–2026 Antwerp Designs | Ionity (Pty) Ltd. All rights reserved.
