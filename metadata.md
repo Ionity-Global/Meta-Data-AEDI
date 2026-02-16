@@ -97,3 +97,4 @@ Ionity / Antwerp Designs designs and builds secure systems that connect devices,
 <meta name="keywords" content="Ionity, Antwerp Designs, IoT, AI, Edge Computing, Power Saving Units, SCADA">
 <meta name="author" content="Johan Wilhelm van Antwerp">
 <meta name="theme-color" content="#00BFFF">
+```

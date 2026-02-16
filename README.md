@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/ionity"><img src="https://img.shields.io/badge/Author-Johan_van_Antwerp-0056b3?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://www.ionity.today"><img src="https://img.shields.io/badge/System-IONITY_OS-000000?style=for-the-badge&logo=ubuntu" /></a>
-<a href="https://google.com/maps/place/Pretoria"><img src="https://img.shields.io/badge/Region-South_Africa-00d2ff?style=for-the-badge&logo=google-maps&logoColor=black" /></a>
+<a href="https://www.google.com/maps/place/Pretoria"><img src="https://img.shields.io/badge/Region-South_Africa-00d2ff?style=for-the-badge&logo=google-maps&logoColor=black" /></a>
 
 </div>
 
